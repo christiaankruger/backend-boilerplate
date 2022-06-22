@@ -2,7 +2,7 @@
   "name": "backend-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Christiaan Kruger <c@hristiaan.co.za>",
+  "author": "Your Name Here <your-name@here.io>",
   "license": "MIT",
   "devDependencies": {
     "@types/convict": "^6.1.1",
