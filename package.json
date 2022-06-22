@@ -1,0 +1,10 @@
+{
+  "name": "backend-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christiaan Kruger <c@hristiaan.co.za>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
