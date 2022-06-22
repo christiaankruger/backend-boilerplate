@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Your Name Here <your-name@here.io>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/convict": "^6.1.1",
     "@types/koa-bodyparser": "^4.3.7",
